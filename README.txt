@@ -1,5 +1,4 @@
-=== Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+=== Infinite Bulk Post and Pages ===
 Donate link: https://fanaticpixel.com
 Tags: bulk-create
 Requires at least: 3.0.1
